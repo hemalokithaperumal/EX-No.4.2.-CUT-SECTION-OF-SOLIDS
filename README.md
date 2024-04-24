@@ -43,6 +43,9 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
+![4 2](https://github.com/hemalokithaperumal/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/144925008/aff39b9c-db89-46b4-85f2-eb8b667f7a17)
+
+
 ## RESULT:
 Thus, the cut section for solid model is created.
 
